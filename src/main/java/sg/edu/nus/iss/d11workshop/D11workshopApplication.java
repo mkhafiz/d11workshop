@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class D11workshopApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(D11workshopApplication.class, args);
+		//SpringApplication.run(D11workshopApplication.class, args);
+		SpringApplication 
 	}
 
 }
